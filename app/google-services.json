@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455520123669",
+    "project_id": "inklusiai",
+    "storage_bucket": "inklusiai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455520123669:android:032f96c1f3e8a11196071c",
+        "android_client_info": {
+          "package_name": "com.willyam.inklusiai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4icSGWhg8peOrraTlNEbMNpAoytoPI5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
