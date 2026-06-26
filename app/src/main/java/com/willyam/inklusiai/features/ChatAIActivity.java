@@ -80,8 +80,7 @@ public class ChatAIActivity extends AppCompatActivity {
             teksPertanyaan = params[0];
 
             String urlString =
-                    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key="
-                            + GEMINI_API_KEY;
+                    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key="AQ.Ab8RN6Lv-DmTYBVS2SlfG8geQwJMQ2TBVdVjREfg6WDSAi3IHQ;
 
             try {
 
